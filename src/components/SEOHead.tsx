@@ -45,7 +45,7 @@ export default function SEOHead() {
       "@context": "https://schema.org",
       "@type": "ProfessionalService",
       "name": "Horizon Growth Studio",
-      "alternateName": "Horizon Growth",
+      "alternateName": "Horizon Growth Studio",
       "description": "A premium digital growth agency crafting elite website design, conversion-focused landing pages, strategic business reels editing, and high-impact script writing.",
       "url": currentOrigin,
       "logo": `${currentOrigin}/logo.png`,

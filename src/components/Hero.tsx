@@ -28,14 +28,7 @@ export default function Hero() {
 
       <div className="max-w-4xl w-full text-center z-10 flex flex-col items-center">
         {/* Elite agency label */}
-        <div 
-          className="inline-flex items-center space-x-2 border border-[#1a1a24] bg-[#0d0d12] px-3.5 py-1.5 mb-8 md:mb-10 text-[10px] tracking-widest text-[#8E8E9F] uppercase font-mono"
-          id="hero-badge"
-        >
-          <span className="w-1.5 h-1.5 rounded-full bg-white animate-pulse" />
-          <span>Horizon Growth Studio // Active for 2026</span>
-        </div>
-
+       
         {/* Strong H1 Statement with extreme typography precision */}
         <h1 
           className="text-4xl sm:text-5xl md:text-7xl font-sans font-bold tracking-tight text-white leading-[1.1] max-w-3xl"

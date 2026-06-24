@@ -44,7 +44,7 @@ export default function Header() {
             className="w-7 h-7 rounded-full object-cover border border-[#1a1a24] group-hover:border-white/50 transition-all duration-300"
           />
           <span className="font-sans font-semibold tracking-tight text-lg text-white">
-            Horizon<span className="text-[#8E8E9F] font-light"> Growth</span>
+            Horizon<span className="text-[#8E8E9F] font-light"> Growth Studio</span>
           </span>
         </div>
 

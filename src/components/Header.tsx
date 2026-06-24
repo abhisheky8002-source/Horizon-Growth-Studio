@@ -38,7 +38,7 @@ export default function Header() {
           id="logo-container"
         >
           <img
-            src="/src/assets/images/horizon_logo_1782312097278.jpg"
+            src="https://res.cloudinary.com/dr5obadvt/image/upload/v1782313086/Horizon_s06es8.png"
             alt="Horizon Growth Studio Logo"
             referrerPolicy="no-referrer"
             className="w-7 h-7 rounded-full object-cover border border-[#1a1a24] group-hover:border-white/50 transition-all duration-300"

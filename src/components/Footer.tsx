@@ -16,7 +16,7 @@ export default function Footer() {
         {/* Brand Column */}
         <div className="flex items-center space-x-2.5" id="footer-logo">
           <img
-            src="https://res.cloudinary.com/dr5obadvt/image/upload/v1782313086/Horizon_s06es8.png"
+            src="https://res.cloudinary.com/dr5obadvt/image/upload/v1782316044/Horizon_qofdao.png"
             alt="Horizon Growth Studio Logo"
             referrerPolicy="no-referrer"
             className="w-5 h-5 rounded-full object-cover border border-[#1a1a24] opacity-80"

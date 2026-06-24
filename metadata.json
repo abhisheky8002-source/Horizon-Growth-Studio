@@ -1,0 +1,6 @@
+{
+  "name": "Horizon Growth Studio",
+  "description": "Horizon Growth Studio is a high-end digital agency that designs high-converting websites and creates engaging short-form content to help modern businesses grow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

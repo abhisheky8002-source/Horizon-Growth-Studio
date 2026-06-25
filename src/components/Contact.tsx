@@ -102,7 +102,7 @@ export default function Contact() {
                     Social Presence
                   </div>
                   <a
-                    href="https://www.instagram.com/horizongrowthstudio/"
+                    href="https://www.instagram.com/horizongrowth_studio/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-base sm:text-lg font-sans font-semibold text-white hover:text-[#8E8E9F] transition-colors duration-300 flex items-center space-x-2.5 mt-1 group/insta"

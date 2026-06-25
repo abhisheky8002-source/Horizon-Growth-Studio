@@ -29,7 +29,7 @@ export default function Footer() {
         {/* Middle Column: Links & Copyright */}
         <div className="flex flex-col items-center gap-2 text-center" id="footer-center">
           <a
-            href="https://www.instagram.com/horizongrowthstudio/"
+            href="https://www.instagram.com/horizongrowth_studio/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center space-x-2 text-[10px] font-mono uppercase tracking-widest text-[#8E8E9F] hover:text-white transition-colors duration-300 border border-white/[0.04] px-4 py-1.5 hover:border-white/40 bg-[#0d0d12]/40 shadow-[inset_0_1px_1px_rgba(255,255,255,0.05)] backdrop-blur-sm"
